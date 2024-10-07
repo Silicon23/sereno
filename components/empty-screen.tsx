@@ -16,7 +16,7 @@ export function EmptyScreen() {
           <ExternalLink href="https://github.com/vercel/ai-chatbot">Next.js AI Chatbot Template</ExternalLink> by{' '}
           <ExternalLink href="https://vercel.com/home">
             Vercel
-          </ExternalLink>
+          </ExternalLink>.
         </p>
         <p className="leading-normal text-muted-foreground">
           Enter any prompt to begin, or click on one of the example prompts below.

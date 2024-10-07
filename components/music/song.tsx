@@ -2,14 +2,14 @@
 
 import React from 'react';
 
-interface SongProps {
+interface Song {
   title: string;
   author: string;
   coverImage: string;
   songUrl: string;
 }
 
-export function Song({ props: { title, author, coverImage, songUrl }}: { props: SongProps }) {
+export function Song({ props: { title, author, coverImage, songUrl }}: { props: Song }) {
   return (
     <div
       className="rounded-xl border bg-zinc-950 p-4 text-black cursor-pointer hover:shadow-lg transition-shadow duration-300"
@@ -25,12 +25,3 @@ export function Song({ props: { title, author, coverImage, songUrl }}: { props: 
     </div>
   );
 }
-
-// Example usage with placeholder data
-<Song props={{
-    title: "Placeholder Title",
-    author: "Placeholder Author",
-    coverImage: "https://via.placeholder.com/150",
-    songUrl: "https://example.com"
-  }}
-/>
