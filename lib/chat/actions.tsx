@@ -56,7 +56,7 @@ async function submitUserMessage(content: string) {
   let textNode: undefined | React.ReactNode
 
   const result = await streamUI({
-    model: openai('gpt-3.5-turbo'),
+    model: openai('gpt-4o'),
     initial:  <SpinnerMessage />,
     system: `\
     You are a compassionate and understanding emotional therapist. Your role is to provide support, empathy, and advice to your clients who are dealing with emotional and psychological issues. You listen carefully, validate their feelings, show sympathy, and offer gentle guidance. Only if the conversation seems to be slowing down or ending:
@@ -117,7 +117,6 @@ async function submitUserMessage(content: string) {
               <SongSkeleton />
             </BotCard>
           )
-          // await sleep(2000)
 
 
           const song = await selectSong(emotion)
@@ -194,21 +193,22 @@ interface MetaData {
 
 function selectSong(emotion: string) {
   const ArousalValenceMap: { [key: string]: [[number, number], [number, number]] } = {
-    excited: [[0.85, 1.0], [0.5, 0.75]],
+    excited: [[0.8, 1.0], [0.4, 0.75]],
     delighted: [[0.6, 0.9], [0.6, 0.9]],
-    blissful: [[0.5, 0.7], [0.85, 1.0]],
-    content: [[0.3, 0.5], [0.85, 1.0]],
+    blissful: [[0.4, 0.75], [0.8, 1.0]],
+    content: [[0.25, 0.6], [0.8, 1.0]],
     serene: [[0.1, 0.4], [0.6, 0.9]],
-    relaxed: [[0.0, 0.15], [0.5, 0.75]],
-    furious: [[0.85, 1.0], [0.25, 0.5]],
+    relaxed: [[0.0, 0.2], [0.4, 0.75]],
+    furious: [[0.8, 1.0], [0.25, 0.6]],
     annoyed: [[0.6, 0.9], [0.1, 0.4]],
-    disgusted: [[0.5, 0.7], [0.0, 0.15]],
-    dissapointed: [[0.3, 0.5], [0.0, 0.15]],
+    disgusted: [[0.4, 0.75], [0.0, 0.2]],
+    dissapointed: [[0.25, 0.6], [0.0, 0.2]],
     depressed: [[0.1, 0.4], [0.1, 0.4]],
-    bored: [[0.0, 0.15], [0.25, 0.5]]
+    bored: [[0.0, 0.2], [0.25, 0.6]],
+    range: [[0.0, 1.0], [0.0, 1.0]]
   }
   if (!ArousalValenceMap.hasOwnProperty(emotion)) {
-    emotion = "relaxed";
+    emotion = "range";
   }
   
   let av = ArousalValenceMap[emotion];
@@ -251,6 +251,17 @@ function selectSong(emotion: string) {
     }
   }
 
+  const candidateSongs = metadata.filter(record => {
+    const songArousal = record.arousal;
+    const songValence = record.valence;
+    const distance = euclideanDistance([arousal, valence], [songArousal, songValence]);
+    return distance <= 1.1 * minDistance;
+  });
+
+  if (candidateSongs.length > 0) {
+    closestSong = candidateSongs[Math.floor(Math.random() * candidateSongs.length)];
+  }
+
   return {
     title: closestSong.title,
     author: closestSong.author,
@@ -271,8 +282,7 @@ export type UIState = {
 
 export const AI = createAI<AIState, UIState>({
   actions: {
-    submitUserMessage,
-    // confirmPurchase
+    submitUserMessage
   },
   initialUIState: [],
   initialAIState: { chatId: nanoid(), messages: [] },

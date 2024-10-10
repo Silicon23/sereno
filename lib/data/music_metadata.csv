@@ -1,2 +1,71 @@
 title,author,coverImage,songUrl,arousal,valence
-a,b,https://via.placeholder.com/150,https://example.com,0.5,0.5
+Ain't No Sunshine,Bill Withers,"https://i.scdn.co/image/ab67616d0000b273e1e350d06ffebd2e19e047ce","https://www.youtube.com/watch?v=YuKfiH0Scao",0.28003114461898804,0.5017540454864502
+All Good Gifts, From Godspell (1973),"https://i.ytimg.com/vi/7AZceyqTWbU/maxresdefault.jpg","https://www.youtube.com/watch?v=2mURti-s0jc",0.260305792093277,0.35869795083999634
+All Star,Smashmouth,"https://i.ytimg.com/vi/C5RMsF-TL_I/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGB0gVCh_MA8=&rs=AOn4CLCaNj0IK2_0qPandpJ1wdmOxBpyjw","https://www.youtube.com/watch?v=L_jWHffIx5E",0.6629815101623535,0.6893541216850281
+American Pie,Don McLean,"https://images.genius.com/2b54ba79c668ef1c2b760181125bda14.1000x1000x1.jpg","https://www.youtube.com/watch?v=PRpiBpDy7MQ",0.5005114674568176,0.6211948990821838
+Amazing Grace,John Newton,"https://df6yevl24pl4a.cloudfront.net/filer_public/1b/a7/1ba71009-e0b9-4be7-8d36-6e182387d57f/amazing-grace-homepage.jpg","https://www.youtube.com/watch?v=ogxLNlgKM8c",0.26506397128105164,0.43604451417922974
+Be OK,Ingrid Michaelson,"https://m.media-amazon.com/images/I/81Bt64QSv8L._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=v1LidFgffI0",0.2690259516239166,0.4029214680194855
+Black Bird,The Beatles,"https://i1.sndcdn.com/artworks-000548330010-d497un-t500x500.jpg","https://www.youtube.com/watch?v=Man4Xw8Xypo",0.37085989117622375,0.5102452635765076
+Blue Suede Shoes,Elvis Presley,"https://i.scdn.co/image/ab67616d0000b273f45cec7e72b9dec993c18872","https://www.youtube.com/watch?v=HeXnFx7aPOE",0.6127625107765198,0.6126640439033508
+Breakaway,Kelly Clarkson,"https://m.media-amazon.com/images/I/91bmuBNN+FL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=c-3vPxKdj6o",0.5352701544761658,0.6051022410392761
+Brown Eyed Girl,Van Morrison,"https://m.media-amazon.com/images/I/81Uj2lHn3pL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=UfmkgQRmmeE",0.5221559405326843,0.6156912446022034
+A Bushel and a Peck,From "Guys and Dolls","https://i.ytimg.com/vi/gkVEQz8AsEw/maxresdefault.jpg","https://www.youtube.com/watch?v=gkVEQz8AsEw",0.3289557695388794,0.49739283323287964
+Change The World,Eric Clapton,"https://m.media-amazon.com/images/I/71ckFlxItxL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=x11NA63gLDM",0.3891071081161499,0.5637207627296448
+Circle of Life,Elton John,"https://i.ytimg.com/vi/IwH9YvhPN7c/maxresdefault.jpg","https://www.youtube.com/watch?v=IwH9YvhPN7c",0.25520214438438416,0.3425501585006714
+Clap for Love,Little Miss Ann,"https://m.media-amazon.com/images/I/71Paej7EmsL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=qfSqPeVem2A",0.46809297800064087,0.6349616646766663
+The Climb,Miley Cyrus,https://i.scdn.co/image/ab67616d0000b2734ea6653890e297d53e93e3e0,https://www.youtube.com/watch?v=NG2zyeVRcbs,0.483193039894104,0.5559006929397583
+Colors of The Wind,Vanessa Williams,"https://m.media-amazon.com/images/I/51YmwavFJhL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=IsVqO83OYow",0.369457483291626,0.517875611782074
+Day By Day,From Godspell (1973),"https://i.scdn.co/image/ab67616d0000b27330debdac6879f2cc74d0bb74","https://www.youtube.com/watch?v=ekoHxB4idmg",0.6258466839790344,0.6784101128578186
+Defying Gravity,From "Wicked","https://i.ytimg.com/vi/fEq3xM-i0Ng/maxresdefault.jpg","https://www.youtube.com/watch?v=l0Bs_eaXaCo",0.49718788266181946,0.5310232043266296
+Do-Re-Mi,From The Sound of Music (1965),"https://i.ytimg.com/vi/jITsImZdlMQ/sddefault.jpg","https://www.youtube.com/watch?v=drnBMAEA3AM",0.25853633880615234,0.30056115984916687
+Don't Worry Be Happy,Bobby McFerrin,"https://i.scdn.co/image/ab67616d0000b273a88b9eddbf3650ea0529f2cc","https://www.youtube.com/watch?v=d-diB65scQU",0.2800029516220093,0.35033783316612244
+Everybody,Ingrid Michaelson,"https://m.media-amazon.com/images/I/A1NXShedHyL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=OopNWnLSAA4",0.5476096272468567,0.6498112678527832
+Fire and Rain,James Taylor,"https://i.scdn.co/image/ab67616d0000b273b3adf9b1706b05af854bbad4","https://www.youtube.com/watch?v=EbD7lfrsY2s",0.2405938357114792,0.4202769696712494
+Firework,Katy Perry,"https://i1.sndcdn.com/artworks-000048224341-013o6t-t500x500.jpg","https://www.youtube.com/watch?v=QGJuMBdaqIw",0.7376968860626221,0.6935457587242126
+Fix You,Coldplay,"https://cdn11.bigcommerce.com/s-bnr350xzri/images/stencil/1280x1280/products/104103/495752/SLPTGGVR21__51009.1665740989.jpg?c=2&imbypass=on","https://www.youtube.com/watch?v=k4V3Mo61fJM",0.4065088629722595,0.511428952217102
+For Good,From "Wicked","https://i.scdn.co/image/ab67616d0000b273f3eaae22e1c6b26400073c05","https://www.youtube.com/watch?v=wYTeyNB1k5g",0.2869701087474823,0.42456236481666565
+The Girl I Mean to Be,From "The Secret Garden","https://i.scdn.co/image/ab67616d0000b273b6fa2177ecfb142abdd91f7d","https://www.youtube.com/watch?v=9yW3EnlH5eo",0.236079603433609,0.3300855755805969
+Glory of Love,Peter Cetera,"https://cdns-images.dzcdn.net/images/cover/3ad33bc07f9f350f84ab37f59ed9ca62/0x1900-000000-80-0-0.jpg","https://www.youtube.com/watch?v=1eQWdpWjXlk",0.5378241539001465,0.6116194128990173
+God Only Knows,The Beach Boys,"https://m.media-amazon.com/images/M/MV5BOGYyOTFjNmMtYjE1Yi00NzE0LWI0NzgtOTYyN2Q5MDM3YWUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg","https://www.youtube.com/watch?v=NADx3-qRxek",0.41400662064552307,0.5495758652687073
+Hallelujah,Jeff Buckley,"https://m.media-amazon.com/images/I/61CYHZ8I24L.jpg","https://www.youtube.com/watch?v=y8AWFf7EAc4",0.2187778800725937,0.3452160656452179
+Happy Together,The Turtles,"https://m.media-amazon.com/images/I/71Uh3hrVqGL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=9ZEURntrQOg",0.5248432159423828,0.6183820962905884
+Here Comes The Sun,The Beatles,"https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25","https://www.youtube.com/watch?v=KQetemT1sWc",0.46331846714019775,0.599497377872467
+Hero,Mariah Carey,"https://m.media-amazon.com/images/I/41M8zRYXjgL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=0IA3ZvCkRkQ",0.4707988202571869,0.48898276686668396
+Hey Jude,The Beatles,"https://m.media-amazon.com/images/M/MV5BNjBlYjgzYTMtY2I2OS00YjE4LTk4ZTgtOTg2N2UwMWRmMjFlXkEyXkFqcGc@._V1_.jpg","https://www.youtube.com/watch?v=A_MjCqQoLLA",0.6017580628395081,0.619317889213562
+A Horse With No Name,America,"https://images.saymedia-content.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MjA4ODE0OTI5NzU3Njc2ODUx/music-folk-song-1971-america-horse-with-no-name.jpg","https://www.youtube.com/watch?v=oIYgsqhwXzM",0.4101610779762268,0.5862524509429932
+How Sweet It Is (To Be Loved By You),James Taylor,"https://images.genius.com/cd1c7ff92c683dbf42cf213590d491c2.1000x1000x1.jpg","https://www.youtube.com/watch?v=Wh__udyczFM",0.37580299377441406,0.5913853645324707
+I Believe I Can Fly,R. Kelly,"https://i.scdn.co/image/ab67616d0000b273a8fb30884b48bb87faef10e4","https://www.youtube.com/watch?v=4qPOWeA-L5I",0.4301537275314331,0.5177707672119141
+I Can See Clearly Now!,Lee Towers,"https://i.scdn.co/image/ab67616d0000b273305ee666d24e51a730d9b9e1","https://www.youtube.com/watch?v=N5O2Q8K5hPA",0.5071009993553162,0.6155919432640076
+I Have A Dream,ABBA,"https://shop.udiscovermusic.com/cdn/shop/products/ABBA_I_Have_A_Dream_Picture_Disc.jpg?v=1551298296","https://www.youtube.com/watch?v=ER_3h03omdE",0.4447541832923889,0.5914624929428101
+I Will Remember You,Sarah Mclachlan,"https://m.media-amazon.com/images/I/71TJhuG5FtL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=nSz16ngdsG0",0.27216488122940063,0.4524829089641571
+I'd Like To Teach The World To Sing,,"https://i.scdn.co/image/ab67616d0000b273c77a1d5aca24e73663327087","https://www.youtube.com/watch?v=6a8F28WVXlk",0.524641215801239,0.6360557675361633
+Jingle Bells,,"https://static.wikia.nocookie.net/disney/images/a/a3/Jingle-bells.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180313213255","https://www.youtube.com/watch?v=3CWJNqyub3o",0.7248429656028748,0.7456174492835999
+Jump Jive An' Wail,Louis Prima,"https://m.media-amazon.com/images/I/61SBVOAZCeL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=5GlOE1YTPfY",0.5199000239372253,0.6116083860397339
+Just The Way You Are,Billy Joel,"https://i.ytimg.com/vi/HaA3YZ6QdJU/maxresdefault.jpg","https://www.youtube.com/watch?v=HaA3YZ6QdJU",0.3758413791656494,0.4871358871459961
+Lean on Me,Bill Withers,"https://i.scdn.co/image/ab67616d0000b273f8560af696925c50080dcc35","https://www.youtube.com/watch?v=fOZ-MySzAac",0.2784101068973541,0.4902082085609436
+Let It Be,The Beatles,"https://m.media-amazon.com/images/I/91kCrLkVSxL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=QDYfEBY9NM4",0.46405458450317383,0.5649119019508362
+My Favorite Things,From The Sound of Music (1965),"https://i.ytimg.com/vi/0IagRZBvLtw/maxresdefault.jpg","https://www.youtube.com/watch?v=K7uISBk0tcw",0.49940839409828186,0.5786944627761841
+My Girl,The Temptations,"https://m.media-amazon.com/images/I/51KWUy7PB4L._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=szbI1vu-cCc",0.5625492334365845,0.6321744322776794
+My Wish,Rascal Flatts,"https://i.scdn.co/image/ab67616d0000b2735beeefcef155ebdf6ccb4c95","https://www.youtube.com/watch?v=NSWTZllisl0",0.6268614530563354,0.656944751739502
+Never Never Land,From Peter Pan (1953),"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0c38FA-FLVA7_gyjQQ3eiaKprrvbgF1K6fnsMZgaIVwOpAiCdqAJujTMr7Q_ZZj34FMj9qKTl9mLrZRs13EVrY3_cyGASkmj6atFK5Mpmp0aJqOhUr5Kia5Pr_xKvaTLbYzlfftjC-kM/s1600/Never+Neverland+Disney+map.jpg","https://www.youtube.com/watch?v=PuHixDALrAg",0.2653471827507019,0.33702048659324646
+No Day But Today,From Rent (2005),"https://cdn.forumcomm.com/dims4/default/71c9321/2147483647/strip/true/crop/400x267+0+67/resize/840x560!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Fgrandforksherald%2Fbinary%2Fcopy%2F96%2Fe4%2Fb844af2ac5c9f11767e05cc38cdd%2F459844-52011-rent-binary-1187427.jpg","https://www.youtube.com/watch?v=O-w_RNchAsk",0.3451615273952484,0.5111817121505737
+No One Is Alone,From "Into The Woods","https://i.ytimg.com/vi/unVTf5_p_1A/maxresdefault.jpg","https://www.youtube.com/watch?v=unVTf5_p_1A",0.2432335764169693,0.32400548458099365
+"Ob-La-Di, Ob-La-Da",The Beatles,"https://townsquare.media/site/295/files/2021/11/attachment-ob-la-di-ob-la-da.jpg","https://www.youtube.com/watch?v=9x5WY_jmsko",0.6509024500846863,0.7063725590705872
+The River of Dreams,Billy Joel,"https://m.media-amazon.com/images/I/218AHB61JPL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=hSq4B_zHqPM",0.5194844603538513,0.5986161828041077
+Seasons of Love,From Rent (2005),"https://i.ytimg.com/vi/Xy-xRpbL0ac/hqdefault.jpg","https://www.youtube.com/watch?v=hj7LRuusFqo",0.30147096514701843,0.4207543432712555
+Someone to Watch Over Me,George and Ira Gershwin,"https://i.scdn.co/image/ab67616d0000b2730b2b2c85cc59b41120d17b4f","https://www.youtube.com/watch?v=gDhF-PsDuCw",0.24741318821907043,0.40390440821647644
+Somewhere Over The Rainbow,From The Wizard of Oz (1939),"https://i.ytimg.com/vi/zSWG80dkwIE/maxresdefault.jpg","https://www.youtube.com/watch?v=V1bFr2SWP1I",0.27679112553596497,0.47594064474105835
+Stand By Me,Ben E. King,"https://i.scdn.co/image/ab67616d0000b273183e806643d90f9279e83a74","https://www.youtube.com/watch?v=hwZNL7QVJjE",0.2774064838886261,0.39414963126182556
+"Sunrise, Sunset",From Fiddler on the Roof (1964),"https://i1.sndcdn.com/artworks-000258139619-yk393d-t500x500.jpg","https://www.youtube.com/watch?v=03rzUoyq9K0",0.28428348898887634,0.3539395034313202
+Good Riddance (Time of Your Life),Green Day,"https://m.media-amazon.com/images/I/91fcZ9S9oEL._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=CnQ8N1KacJc",0.37351998686790466,0.5668257474899292
+Top of The World,The Carpenters,"https://static.stereogum.com/uploads/2019/04/The-Carpenters-Top-Of-The-World-1556304895.jpg","https://www.youtube.com/watch?v=vupwAFMXLkA",0.3464789390563965,0.5312780737876892
+Twist and Shout,The Beatles,"https://i.discogs.com/VHkB2i2gUE_i3aact8gcuKtaK9GCT4ahKcN7Iv1xhzw/rs:fit/g:sm/q:90/h:573/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU5/MzktMTQ0MTU0NzAw/MC04ODAzLmpwZWc.jpeg","https://www.youtube.com/watch?v=2RicaUqd9Hg",0.6680719256401062,0.6743009686470032
+Under The Boardwalk,The Drifters,"https://i.ebayimg.com/images/g/bGEAAOSw-X9mPBIy/s-l1200.png","https://www.youtube.com/watch?v=EPEqRMVnZNU",0.4798983633518219,0.5990267395973206
+When You Wish Upon a Star,From Pinocchio (1940),"https://i.scdn.co/image/ab67616d0000b27350f9a2e8f1102e1f5a76d369","https://www.youtube.com/watch?v=pguMUFyJ3_U",0.26370757818222046,0.28331243991851807
+Wide Open Spaces,Dixie Chicks,"https://m.media-amazon.com/images/I/81oRfvVHT2L._UF1000,1000_QL80_.jpg","https://www.youtube.com/watch?v=dom7VlltBUc",0.5178187489509583,0.6476938128471375
+You Are My Sunshine,Jimmie Davis,"https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2013/05/you_are_my_sunshine.jpg","https://www.youtube.com/watch?v=FeKRtRvo7Qc",0.24463388323783875,0.4524296820163727
+You Gotta Be,"Des'ree","https://i.ytimg.com/vi/aWHMYYH9ikw/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGBMgRyh_MA8=&rs=AOn4CLD_VDps3vg67iH2BrtixI9513iiEA","https://www.youtube.com/watch?v=pO40TcKa_5U",0.3081493377685547,0.525860071182251
+You Raise Me Up,Josh Groban,"https://i.scdn.co/image/ab67616d0000b2737a04cb2e05a97a56a35aa340","https://www.youtube.com/watch?v=aJxrX42WcjQ",0.36082321405410767,0.48295074701309204
+Your Smiling Face,James Taylor,"https://i.scdn.co/image/ab67616d0000b2735965e1d70e919f2259c1dc90","https://www.youtube.com/watch?v=ZSsfNlS42Cc",0.458232581615448,0.6098427176475525
+You've Got a Friend,James Taylor,"https://static.stereogum.com/uploads/2019/02/James-Taylor-Youve-Got-A-Friend-1549048909-517x520.jpg","https://www.youtube.com/watch?v=xEkIou3WFnM",0.25669413805007935,0.48243850469589233
+You've Got a Friend in Me,Randy Newman,"https://i.scdn.co/image/ab67616d0000b2739e26f06f82a65f3ceb6c259c","https://www.youtube.com/watch?v=0hG-2tQtdlE",0.3155558705329895,0.534412145614624
