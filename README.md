@@ -1,6 +1,4 @@
-<a href="https://sereno-rouge.vercel.app/">
-  <h1 align="center">Sereno</h1>
-</a>
+<h1 align="center"><a href="https://sereno-rouge.vercel.app/">Sereno</a></h1>
 
 <p align="center">
   An open-source AI music therapist built with the <a href="https://vercel.com/templates/Next.js/nextjs-ai-chatbot">Next.js AI Chatbot Template</a> by Vercel.
